@@ -2,7 +2,7 @@
 Detailled
 =========
 
-Domodroid BETA 1.3 provides plenty of features:
+Domodroid BETA 1.4 provides plenty of features:
 
 General
 =======
@@ -13,7 +13,7 @@ General
     
     Domogik could be install behind a proxy with http auth for security
     
-    A new feature register to Domogik event to update in real time
+    A new feature register to Domogik event to update in real time or via the MQ
     
     Power Management control keeping your screen on during the use of Domodroid
     
@@ -23,7 +23,7 @@ General
 Widgets
 =======
 
-    12 animated widgets
+    lots of animated widgets
     
     Auto-Updated with an asynchrone threading system and in real time with event
     
@@ -43,7 +43,7 @@ Creation of the "Domodroid" directory at the root of the external storage direct
 
 * Change map: 3 fingers tap
 
-* Longclick on map allow you to add/move/remove a widget directly from where or what you put finger on.
+* Longclick on map allow you to add/move/remove or change icon of a widget directly from where or what you put finger on.
  
 * Add a map directly from the map view with the android internal image picker.
 

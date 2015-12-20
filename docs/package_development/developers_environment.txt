@@ -7,6 +7,15 @@ Developers environnement
     
 You can use a lot of tools.
 
+Since 12/2015 we migrate to Android Studio for developement. Still using API 8 from android to ensure largest device compatibility.
+
+3 libs are used:
+	The android appcompat, for navigation drawer and other stuff;
+	jeroMQ to make domodroid compatible with domogik MQ;
+	Achartengine is used to make graph;
+
+Until version 11
+
 ECLIPSE is only one of them, but you can use a simple text  editor if you want.
 
 Install Google SDK

@@ -19,6 +19,6 @@ For example in this view the Dev version is 2 but it should look more like 336:9
 .. image:: image/About.png
 
 
-If you find a bug or want an evolution don't forget to tell us witch version it is.
+If you find a bug or want an evolution don't forget to tell us wich version it is.
 
-You can user the Tracker at: http://tracker.domogik.org/projects/domodroid to submit anythings. 
+You can user the Tracker at: https://github.com/domogik/domodroid/issues to submit anythings. 

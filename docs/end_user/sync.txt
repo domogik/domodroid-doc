@@ -6,6 +6,24 @@ When you click on Sync button, Domodroid will attempt to contact your Domogik se
 
 It's don in further steps depending of your version of domogik:
 
+
+Domogik 0.4 (API version >6)
+============================
+
+* It get a json containing device and feature from:
+
+http://yourIP:YourPort/device
+
+http://yourIP:YourPort/datatype
+
+If it works, progress goes to 25%.
+
+Progress from 25 to 100 are internal domodroid table construction.
+
+Progress goes to 100% HOURRA!!
+
+* Just after this process ended, domodroid will start the cache engine. Depending of the number of feature and the speed of your connection it could takes seconds to minutes.
+
 Domogik 0.3 (API version >5)
 ============================
 

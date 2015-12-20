@@ -11,9 +11,10 @@ Server option
 	
 	If you don't know path let him empty.
 
+* In 0.5 admin and rest port are sames (40406 by default) path is necessary and looks like /rest
 * You can also set a user and password for http auth method.
 * Update_Timer and Update_Url are not available for user.
-* Mq pub and sub port (for 0.4 domogik's version).	
+* Mq adress, pub and sub port (for 0.4 or more domogik's version). (should be filled automatically after a sync)
 
 .. image:: image/Config_server.png
 
@@ -24,6 +25,7 @@ Widget option
 * Alternative graph use achartengine as graph engine.
 * Forbid 2 columns in each mode Landscape or portrait will show widget on only one columns if your screen have more than 700px in height or width.
 * Force 0.3 by usage allow to un-force the by usage mode and restore by house view. Then you could organize your house as you want.
+* Navigation drawer not fully functionnal so could be activate or no, will be used to navigate in house organisation.
 
 .. image:: image/Config_widget.png
 
@@ -34,6 +36,7 @@ Map option
 * Allow zoom in map view
 * Hide text, will hide the text of all widget on map
 * Lock menu will lock access to the top menu in map mode to avoid someone add/remove widget
+* Autozoom, this feature make image dimmension to screensize, it makes your image nearly fullscreen
 * Start options allow user to start in map mode directly instead of Room/Usage when launching Domodroid
 
 Max map size in px (be careful it could make memory error).
@@ -49,7 +52,7 @@ Debug option
 * Allow Verbose message
 * Allow Warning message
 * In Catlog
-* In Screen view
+* In Screen view (be carreful it will show log on screen, so it could take ~5mins to display only sync log)
 * In text file
 * Dev, add the device Id after his name to help debugging.
 * You have to select the directory name and file name where you want it to be save.
