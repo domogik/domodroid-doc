@@ -11,7 +11,9 @@ Since 12/2015 we migrate to Android Studio for developement. Still using API 8 f
 
 3 libs are used:
 	The android appcompat, for navigation drawer and other stuff;
+	
 	jeroMQ to make domodroid compatible with domogik MQ;
+	
 	Achartengine is used to make graph;
 
 Until version 11
