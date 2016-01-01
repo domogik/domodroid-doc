@@ -9,6 +9,7 @@ Table Of Content
     /index
  	/overview/index
     /overview/detailed
+	/overview/map
     /end_user/installation
     /end_user/nightly_builds
     /end_user/configuration

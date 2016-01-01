@@ -14,7 +14,7 @@ Server option
 * In 0.5 admin and rest port are sames (40406 by default) path is necessary and looks like /rest
 * You can also set a user and password for http auth method.
 * Update_Timer and Update_Url are not available for user.
-* Mq adress, pub and sub port (for 0.4 or more domogik's version). (should be filled automatically after a sync)
+* Mq adress, pub and sub port (for 0.4 or more domogik's version). (should be filled automatically after a sync).
 
 .. image:: image/Config_server.png
 
@@ -60,6 +60,11 @@ Debug option
 
 .. image:: image/Config_debug1.png
 .. image:: image/Config_debug2.png
+
+House option
+============
+
+A day House organisation could be here.
 
 Butler option
 ============

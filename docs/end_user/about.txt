@@ -2,7 +2,7 @@
 ABOUT
 =====
 
-This view display The About information.
+This view display The About information including the changelog.
 
 What's important here his the value at the bottom of the view:
 

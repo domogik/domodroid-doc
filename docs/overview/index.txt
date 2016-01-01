@@ -28,7 +28,10 @@ Quick overview
 
 - History of Caller ID
 
+- Command with multi parameters (for domogik 0.4 & more)
+
 .. image:: Widgets.png
+.. image:: Command_muti_parameters.png
 
 Map mode
 ========

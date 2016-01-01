@@ -4,7 +4,9 @@ Sync
 
 When you click on Sync button, Domodroid will attempt to contact your Domogik server with the configuration previously entered.
 
-It's don in further steps depending of your version of domogik:
+By the past domodroid was erasing every data and get new one. This including the loss of personnal house re-organisation. It will be solved in a sooner version.
+
+Sync is done in further steps depending of your version of domogik:
 
 
 Domogik 0.4 (API version >6)
@@ -16,9 +18,9 @@ http://yourIP:YourPort/device
 
 http://yourIP:YourPort/datatype
 
-If it works, progress goes to 25%.
+If it works, progress goes to 55%.
 
-Progress from 25 to 100 are internal domodroid table construction.
+Progress from 55 to 100 are internal domodroid table construction.
 
 Progress goes to 100% HOURRA!!
 
