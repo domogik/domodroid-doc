@@ -9,6 +9,18 @@ You can use a lot of tools.
 
 Since 12/2015 we migrate to Android Studio for developement. Still using API 8 from android to ensure largest device compatibility.
 
+You will need Java JDK superior to 7.
+
+Android studio will fail to correctly set projet. You have to import it using github in android studio then configure the modules in project structure.
+
+First remove default module names domodroid. Add a new module select Api 8 platform in Module SDK. Names id as you want (domodroid or main or ...).
+In content root select: your path\domodroid\Domodroid\src\main as root content.
+
+In this module select gen and java as source, and add a java libs in dependencies domodroid\Domodroid\libs.
+
+Now you can android structure in this module, selecting the right manifest res assets and libs (they sould be automatically add with correct path this time).
+
+
 3 libs are used:
 	The android appcompat, for navigation drawer and other stuff;
 	
