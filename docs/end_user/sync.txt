@@ -4,7 +4,11 @@ Sync
 
 When you click on Sync button, Domodroid will attempt to contact your Domogik server with the configuration previously entered.
 
-By the past domodroid was erasing every data and get new one. This including the loss of personnal house re-organisation. It will be solved in a sooner version.
+By the past this was erasing every data and get new one. This including the loss of personnal house re-organisation. It's solved since version 14.
+
+A default area is created at top of house. It contains the domogik information.
+You can safely delete it after the sync and create your house organisation like you want. At next sync, the default area will be recreated but you do not lost your personnal organisation. Only no more existing device/sensor/command in domogik will be removed from domodroid.
+
 
 Sync is done in further steps depending of your version of domogik:
 
