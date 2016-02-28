@@ -64,7 +64,9 @@ Debug option
 House option
 ============
 
-A day House organisation could be here.
+You can select here the default area organisation, by device name, device type or plugin.
+
+A day House organisation could be here too.
 
 Butler option
 ============
