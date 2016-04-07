@@ -4,7 +4,7 @@ Nightly Builds
 
 Since ~10/2015 domodroid is develop with Android Studio.
 
-It's no more true until we find time an volonteer to make it works.
+It's no more true until we find time an volunteer to make it works.
 
 Nightly builds were Android apk available at:
 
@@ -15,6 +15,6 @@ They're build every night and can be build by developers at any time with a spec
 You should use the last one to be sure having last update.
 
 
-If you find a bug or want an evolution don't forget to tell us wich version it is.
+If you find a bug or want an evolution don't forget to tell us which version it is.
 
 You can user the Tracker at: https://github.com/domogik/domodroid/issues to submit anythings. 

@@ -24,7 +24,7 @@ Widgets
 
     lots of animated widgets
     
-    Auto-Updated with an asynchrone threading system and in real time with event
+    Auto-Updated with an asynchronous threading system and in real time with event
     
     Data widget with 2d chart engine
     

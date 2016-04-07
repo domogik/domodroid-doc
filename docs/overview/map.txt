@@ -14,9 +14,9 @@ Gesture
 
 * Longclick on map allow you to add/move/remove or change icon of a widget directly from where or what you put finger on.
 
-* Zoom: 2 fingers pinch
+* Zoom: 2 fingers pinch (Not working in current version)
 
-* Drag: 2 fingers move
+* Drag: 2 fingers move (Not working in current version)
 
 * Change map: 3 fingers tap
 
