@@ -13,6 +13,7 @@ Server option
 
 * In 0.5 admin and rest port are sames (40406 by default) path is necessary and looks like /rest
 * You can also set a user and password for http auth method.
+* For 0.5 domogik the checkbox allow you to use SSL.
 * Update_Timer and Update_Url are not available for user.
 * Mq adress, pub and sub port (for 0.4 or more domogik's version). (should be filled automatically after a sync).
 
