@@ -8,6 +8,9 @@ Quick overview
 	
 	Domodroid provides the following usages compatible with many technologies:
 
+House mode
+==========
+
 - Switch (2 different switch type)
 
 - Dimmer
