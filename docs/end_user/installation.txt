@@ -9,6 +9,14 @@ Current Beta 1.3 is on the Google playstore here:
 
 https://play.google.com/store/apps/details?id=org.domogik.domodroid13
 
+On Github release for each version here:
+
+https://github.com/domogik/domodroid/releases
+
+On F-Droid also for those who doesn't want to go to google store:
+
+https://f-droid.org/repository/browse/?fdid=org.domogik.domodroid13
+
 To know witch version you're using, you could use the "About" menu it's write behind the rev number.
 
 There is also the Domogik version in the example above 0.3
