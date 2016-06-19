@@ -2,6 +2,8 @@
 OPTION
 ======
 
+.. image:: image/Fr_options.png
+
 Server option
 =============
 
