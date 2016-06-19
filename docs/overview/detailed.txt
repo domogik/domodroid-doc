@@ -28,7 +28,7 @@ Widgets
     
     Data widget with 2d chart engine
     
-    A longClick on an area, room or widget allow you to move it up or down, rename it, change his icon, remove it.
+    A longClick on an area, room or widget allow you to change his icon, rename it, remove it or move it up or down.
 
 Camera
 ======

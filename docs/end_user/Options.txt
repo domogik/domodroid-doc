@@ -17,7 +17,8 @@ Server option
 * Update_Timer and Update_Url are not available for user.
 * Mq adress, pub and sub port (for 0.4 or more domogik's version). (should be filled automatically after a sync).
 
-.. image:: image/Config_server.png
+.. image:: image/Fr_server_option.png
+.. image:: image/Fr_server_option1.png
 
 Widget option
 =============
@@ -30,7 +31,7 @@ Widget option
 * Force 0.3 by usage allow to un-force the by usage mode and restore by house view. Then you could organize your house as you want.
 * Navigation drawer not fully functional so could be activate or no, will be used to navigate in house organisation.
 
-.. image:: image/Config_widget.png
+.. image:: image/Fr_widget_option.png
 
 Map option
 ==========
@@ -44,7 +45,7 @@ Map option
 
 Max map size in px (be careful it could make memory error).
 
-.. image:: image/Config_map.png
+.. image:: image/En_map_option.png
 
 House option
 ============
@@ -54,7 +55,7 @@ House option
 
 A day House organisation could be here too.
 
-.. image:: image/Config_house.png
+.. image:: image/Fr_house_option.png
 
 
 Butler option
@@ -62,7 +63,7 @@ Butler option
 
 * Set your name and butler's one
 
-.. image:: image/Config_buttler.png
+.. image:: image/En_buttler_option.png
 
 Debug option
 ============
@@ -79,6 +80,6 @@ Debug option
 	Get attention that by default it's in a hidden directory.
 * Dev, add the device Id after his name to help debugging.
 
-.. image:: image/Config_debug1.png
-.. image:: image/Config_debug2.png
+.. image:: image/En_debug_option.png
+.. image:: image/En_debug_option1.png
 
