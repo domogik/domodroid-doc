@@ -4,10 +4,10 @@ Configuration
 
 In the menu you have choice of:
 
-* :doc:`Organize you house <Config_house>`
-* Talk with Buttler if sync wih a domogik 0.4 and more
 * :doc:`Access to options <Options>`
 * :doc:`Sync with domogik server <sync>`
+* Talk with Buttler if sync wih a domogik 0.4 and more
+* :doc:`Organize you house <Config_house>`
 * :doc:`See statistics about echange with the server (Stats and Events) <stats>`
 * :doc:`Open about view <about>`
 * Exit

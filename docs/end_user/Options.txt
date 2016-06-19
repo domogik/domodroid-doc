@@ -23,7 +23,9 @@ Widget option
 =============
 
 * Alternative widget allow the use of a new ON/OFF widget.
+* Display timestamp by date or from now in widget.
 * Alternative graph use achartengine as graph engine.
+* Graph size height.
 * Forbid 2 columns in each mode Landscape or portrait will show widget on only one columns if your screen have more than 700px in height or width.
 * Force 0.3 by usage allow to un-force the by usage mode and restore by house view. Then you could organize your house as you want.
 * Navigation drawer not fully functional so could be activate or no, will be used to navigate in house organisation.
@@ -33,43 +35,50 @@ Widget option
 Map option
 ==========
 
-* Allow drag in map view (Not working in current version)
-* Allow zoom in map view (Not working in current version)
+* Start options allow user to start in map mode directly instead of Room/Usage when launching Domodroid
 * Hide text, will hide the text of all widget on map
 * Lock menu will lock access to the top menu in map mode to avoid someone add/remove widget
 * Autozoom, this feature make image dimension to screensize, it makes your image nearly fullscreen (Always in current version)
-* Start options allow user to start in map mode directly instead of Room/Usage when launching Domodroid
+* Allow drag in map view (Not working in current version)
+* Allow zoom in map view (Not working in current version)
 
 Max map size in px (be careful it could make memory error).
 
 .. image:: image/Config_map.png
 
-Debug option
-============
-
-* Allow Debug message
-* Allow Error message
-* Allow Info message
-* Allow Verbose message
-* Allow Warning message
-* In Catlog
-* In Screen view (be careful it will show log on screen, so it could take ~5mins to display only sync log)
-* In text file
-* Dev, add the device Id after his name to help debugging.
-* You have to select the directory name and file name where you want it to be save.
-	Get attention that by default it's in a hidden directory.
-
-.. image:: image/Config_debug1.png
-.. image:: image/Config_debug2.png
-
 House option
 ============
 
-You can select here the default area organisation, by device name, device type or plugin.
+* You can select here the default area organisation, by device name, device type or plugin.
+* You can force, by device name, device type or plugin usage to avoid using more area.
 
 A day House organisation could be here too.
+
+.. image:: image/Config_house.png
+
 
 Butler option
 ============
 
 * Set your name and butler's one
+
+.. image:: image/Config_buttler.png
+
+Debug option
+============
+
+* Allow Verbose message
+* Allow Debug message
+* Allow Info message
+* Allow Warning message
+* Allow Error message
+* In Catlog
+* In Screen view (be careful it will show log on screen, so it could take ~5mins to display only sync log)
+* In text file
+* You have to select the directory name and file name where you want it to be save.
+	Get attention that by default it's in a hidden directory.
+* Dev, add the device Id after his name to help debugging.
+
+.. image:: image/Config_debug1.png
+.. image:: image/Config_debug2.png
+
