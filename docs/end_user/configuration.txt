@@ -12,5 +12,5 @@ In the menu you have choice of:
 * :doc:`Open about view <about>`
 * Exit
 
-.. image:: image/menu_open.png
+.. image:: image/Fr_menu_open.png
 
