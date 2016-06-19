@@ -51,12 +51,12 @@ Arc commands in paths (work on this is in progress).
 Top Menu
 ========
 
-.. image:: map_menu.png
+.. image:: image/map_menu.png
 
 Add widgets button allows users to place a widget on the map by choosing an item from the feature list and touching the map to place the widget.
 It can be replaced later by using move widget    
 
-.. image:: map_widget_selector.png
+.. image:: image/map_widget_selector.png
 
 Help open the map mode help splash screen. 
 
@@ -73,4 +73,4 @@ Navigation Drawer
 *It also allow you to switch map from delecting one in list
 *And you can delete a map while longclic on it's name from list
 
-.. image:: map_navigation_drawer.png
+.. image:: image/map_navigation_drawer.png

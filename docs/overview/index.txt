@@ -30,17 +30,17 @@ Quick overview
 
 - Command with multi parameters (for domogik 0.4 & more)
 
-.. image:: Widgets.png
-.. image:: Command_muti_parameters.png
+.. image:: image/Widgets.png
+.. image:: image/Command_muti_parameters.png
 
 Map mode
 ========
 
 - Some widget could be activated directly from map (boolean or triger)
 
-.. image:: map1.png
+.. image:: image/map1.png
 
 Camera
 ======
 
-.. image:: Camera1.png
+.. image:: image/Camera1.png

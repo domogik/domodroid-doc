@@ -41,4 +41,4 @@ To use the camera streaming feature, the Camera plugin has to be installed in Do
 
 If none of your camera stream Mjpeg datas, you can use Zoneminder which is a free video camera security application that encode many kind of video stream format to mjpeg stream.
 
-.. image:: Camera1.png
+.. image:: image/Camera1.png
