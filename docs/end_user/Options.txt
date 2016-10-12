@@ -7,6 +7,9 @@ OPTION
 Server option
 =============
 
+* For 0.5 users, you can use the qrcode to auto fill the most important informations.
+Once done, go back to home screen and lunch a sync directly.
+
 * In server menu, set the IP, PORT and PATH of the Rinor server
 	
 	For example http://192.168.0.1 40405 and /domogik.
