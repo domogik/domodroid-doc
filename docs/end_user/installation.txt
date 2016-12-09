@@ -5,7 +5,7 @@ Installation
 PlayStore version
 =================
 
-Current Beta 1.3 is on the Google playstore here:
+Current Beta 1.4 is on the Google playstore here:
 
 https://play.google.com/store/apps/details?id=org.domogik.domodroid13
 
@@ -31,7 +31,7 @@ To know witch version you're using, you could use the "About" menu it's write be
 
 There is also the Domogik version in the example above 0.3
 
-For example in this view the Dev version is 2 but it should look more like 1.4_android_studio Rev_13 or 336:9c0ad72e15:
+For example in this view the Dev version is 1.4_android_studio Rev_19 but it should look more like 1.4_android_studio 336:9c0ad72e15:
 
 .. image:: image/About.png
 
@@ -42,12 +42,12 @@ If you wish to use the current developper version:
 
 Since ~10/2015 domodroid is develop with Android Studio.
 
-Use the github branch 1-4-android_studio: https://github.com/domogik/domodroid/tree/1-4-android_studio
+Use the github branch master for current stable version or 1-4-android_studio branch for develop's one: https://github.com/domogik/domodroid/tree/1-4-android_studio
 
 get the source and compile it on your own machine.
 
 
-Previous Branch where used with Eclipse ans a nightly builds mechanism no more actual.
+~~Previous Branch where used with Eclipse ans a nightly builds mechanism no more actual.
 
 You need to allow unknown source
 
@@ -55,4 +55,4 @@ Download the last apk from http://repo.domogik.org/domodroid-nightly/ if the app
 
 Just copy/paste the apk you've just download
 
-Open it from your device and install it.
+Open it from your device and install it.~~
