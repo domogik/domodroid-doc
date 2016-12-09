@@ -29,7 +29,7 @@ Version in about
 
 To know witch version you're using, you could use the "About" menu it's write behind the rev number.
 
-There is also the Domogik version in the example above 0.3
+They're is also the Domogik version in the example above 0.5
 
 For example in this view the Dev version is 1.4_android_studio Rev_19 but it should look more like 1.4_android_studio 336:9c0ad72e15:
 
