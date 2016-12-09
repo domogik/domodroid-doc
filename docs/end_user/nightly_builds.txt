@@ -10,7 +10,7 @@ Nightly builds were Android apk available at:
 
 http://repo.domogik.org/domodroid-nightly/
 
-They're build every night and can be build by developers at any time with a special link.
+They were build every night and can be build by developers at any time with a special link.
 
 You should use the last one to be sure having last update.
 
