@@ -49,7 +49,7 @@ get the source and compile it on your own machine.
 
 .. note::
 
-  Previous Branch where used with Eclipse ans a nightly builds mechanism no more actual.
+  Previous Branch where used with Eclipse and a nightly builds mechanism no more actual.
   
   You need to allow unknown source
   
