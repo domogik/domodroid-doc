@@ -17,13 +17,20 @@ Once done, go back to home screen and lunch a sync directly.
 	If you don't know path let him empty.
 
 * In 0.5 admin and rest port are sames (40406 by default) path is necessary and looks like /rest
-* You can also set a user and password for http auth method.
 * For 0.5 domogik the checkbox allow you to use SSL.
-* Update_Timer and Update_Url are not available for user.
-* Mq adress, pub and sub port (for 0.4 or more domogik's version). (should be filled automatically after a sync).
+* Same value are available for domogik external access.
+* You can also set a user and password for http auth method.
+* Update_Timer is used to tell how often a full rest call is done to refresh sensors value.
+* Specify a wifi SSID used for local domogik access.
+* Update_Url are not available for user but let you see the full url used by domodroid.
 
 .. image:: image/Fr_server_option.png
 .. image:: image/Fr_server_option1.png
+
+MQ option
+=========
+
+* Mq adress, pub and sub port (for 0.4 or more domogik's version). (should be filled automatically after a sync).
 
 Widget option
 =============
