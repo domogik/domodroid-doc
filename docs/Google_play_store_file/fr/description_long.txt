@@ -1,25 +1,22 @@
-Domodroid est une application de contrôle à distance qui vous permet de contrôler votre système domotique  via Domogik.
+Domodroid est une application de contrÃ´le Ã  distance qui vous permet de contrÃ´ler votre systÃ¨me domotique  via Domogik.
 
-Les fonctions suivantes sont déjà disponibles dans cette version de Domodroid:
+Les fonctions suivantes sont dÃ©jÃ  disponibles dans cette version de Domodroid:
 
-- Courbe avec un moteur de tracé interne (par défaut)
-- Courbe avec le moteur Achartengine (en cours de développement)
-- Visualisation des caméras
-- Widgets On/Off ( deux versions disponibles), variateur, état et données, envoie de commande
-- Mise à jour automatique des widgets
-- De nombreuses icônes
-- Technologie supportée: Onewire, PLCBus, IPX800, Mirror, Teleinfo, X10, WakeOnLan, Ping, Zibase, RFXCom, YahooWather. (Toutes celles supportées par Domogik en théorie)
-- Toutes tailles d'écrans téléphones et tablettes
-- Contrôle de la mise en veille de l'appareil
-- Démarrage automatique en mode map
+- Courbe avec un moteur de tracÃ© interne (par dÃ©faut)
+- Courbe avec le moteur Achartengine (en cours de dÃ©veloppement)
+- Visualisation des camÃ©ras
+- Widgets On/Off ( deux versions disponibles), variateur, Ã©tat et donnÃ©es, envoie de commande
+- Mise Ã  jour automatique des widgets
+- De nombreuses icÃ´nes
+- Technologie supportÃ©e: Onewire, PLCBus, IPX800, Mirror, Teleinfo, X10, WakeOnLan, Ping, Zibase, RFXCom, YahooWather. (Toutes celles supportÃ©es par Domogik en thÃ©orie)
+- Toutes tailles d'Ã©crans tÃ©lÃ©phones et tablettes
+- ContrÃ´le de la mise en veille de l'appareil
+- DÃ©marrage automatique en mode map
 
 http:/domogik.org/
 
 La documentation se trouve ici:
 http://domodroid.readthedocs.org/
 
-Vous pouvez participer à la traduction ici:
+Vous pouvez participer Ã  la traduction ici:
 https://www.transifex.com/projects/p/domodroid/
-
-Les versions de développement sont compilés tous les jours ici:
-http://repo.domogik.org/domodroid-nightly/
