@@ -7,7 +7,7 @@ Developers environnement
     
 You can use a lot of tools.
 
-Since 12/2015 we migrate to Android Studio for developement. Still using API 8 from android to ensure largest device compatibility.
+Since 12/2015 we migrate to Android Studio for developement. Still using API 9 from android to ensure largest device compatibility.
 
 You will need Java JDK superior to 7.
 
@@ -21,12 +21,20 @@ In this module select gen and java as source, and add a java libs in dependencie
 Now you can android structure in this module, selecting the right manifest res assets and libs (they sould be automatically add with correct path this time).
 
 
-3 libs are used:
+Somes libs are used:
 	The android appcompat, for navigation drawer and other stuff;
 	
 	jeroMQ to make domodroid compatible with domogik MQ;
 	
 	Achartengine is used to make graph;
+	
+	Osmdroid to display openstreetmap for widget with coordonate;
+	
+	Android-ago to display value of timestamp received in a friendly format;
+	
+	Acra to catch crash and report them by mail;
+	
+	AnrWathdog to catch Application not responding and report them by mail
 
 Until version 11
 
