@@ -36,7 +36,7 @@ Once done, go back to home screen and lunch a sync directly.
 MQ option
 =========
 
-* Mq adress, pub and sub port (for 0.4 or more domogik's version). (should be filled automatically after a sync).
+* Mq adress, pub, sub and req/rep port (for 0.4 or more domogik's version). (should be filled automatically after a sync).
 
 .. image:: image/En_mq_option.png
 
