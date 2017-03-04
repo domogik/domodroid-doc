@@ -71,10 +71,10 @@ House option
 * You can select here the default area organisation, by device name, device type or plugin.
 * Force 0.3 by usage allow to un-force the by usage mode and restore by house view. Then you could organize your house as you want.
 * You can force, by device name, device type or plugin usage to avoid using more area.
-
+* Default area to open when domodroid Start (Not working in current version)
 A day House organisation could be here too.
 
-.. image:: image/Fr_house_option.png
+.. image:: image/En_house_option.png
 
 
 Butler option
