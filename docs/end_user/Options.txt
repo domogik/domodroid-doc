@@ -20,7 +20,6 @@ Once done, go back to home screen and lunch a sync directly.
 * Same value are available for domogik external access (you could use a reverse proxy or open domogik to internet to allow access from anywhere).
 
 .. image:: image/En_server_option.png
-.. image:: image/En_server_option1.png
 
 * Path is necessary and looks like /rest in last domogik version.
 * You can also set a user and password for http auth method.
@@ -49,7 +48,6 @@ Widget option
 * Graph size height.
 * Number of value for history in widget that are not graph.
 * Forbid 2 columns in each mode Landscape or portrait will show widget on only one columns if your screen have more than 700px in height or width.
-* Force 0.3 by usage allow to un-force the by usage mode and restore by house view. Then you could organize your house as you want.
 
 .. image:: image/En_widget_option.png
 
@@ -71,6 +69,7 @@ House option
 ============
 
 * You can select here the default area organisation, by device name, device type or plugin.
+* Force 0.3 by usage allow to un-force the by usage mode and restore by house view. Then you could organize your house as you want.
 * You can force, by device name, device type or plugin usage to avoid using more area.
 
 A day House organisation could be here too.
