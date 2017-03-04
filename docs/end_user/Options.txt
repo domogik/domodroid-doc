@@ -19,7 +19,8 @@ Once done, go back to home screen and lunch a sync directly.
 * Specify a wifi SSID used for local domogik access.
 * Same value are available for domogik external access (you could use a reverse proxy or open domogik to internet to allow access from anywhere).
 
-.. image:: image/En_server_option.png .. image:: image/En_server_option1.png
+.. image:: image/En_server_option.png
+.. image:: image/En_server_option1.png
 
 * Path is necessary and looks like /rest in last domogik version.
 * You can also set a user and password for http auth method.
