@@ -35,9 +35,9 @@ copyright = u'2014, Domodroid'
 # built documents.
 #
 # The short X.Y version.
-version = '1.3 beta'
+version = '1.4 beta'
 # The full version, including alpha/beta/rc tags.
-release = '1.3 beta'
+release = '1.4 beta'
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
