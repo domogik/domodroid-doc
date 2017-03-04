@@ -10,27 +10,34 @@ Server option
 * For 0.5 users, you can use the qrcode to auto fill the most important informations.
 Once done, go back to home screen and lunch a sync directly.
 
-* In server menu, set the IP, PORT and PATH of the Rinor server
+* In server menu, set the IP and PORT of the domogik server:
 	
-	For example http://192.168.0.1 40405 and /domogik.
-	
-	If you don't know path let him empty.
+	For example http://192.168.0.1 40405
 
-* In 0.5 admin and rest port are sames (40406 by default) path is necessary and looks like /rest
-* For 0.5 domogik the checkbox allow you to use SSL.
-* Same value are available for domogik external access.
+* In 0.5 admin and rest port are sames (40406 by default).
+* Checkbox allow you to use SSL to join domogik.
+* Specify a wifi SSID used for local domogik access.
+* Same value are available for domogik external access (you could use a reverse proxy or open domogik to internet to allow access from anywhere).
+
+.. image:: image/En_server_option.png .. image:: image/En_server_option1.png
+
+* Path is necessary and looks like /rest in last domogik version.
 * You can also set a user and password for http auth method.
 * Update_Timer is used to tell how often a full rest call is done to refresh sensors value.
-* Specify a wifi SSID used for local domogik access.
 * Update_Url are not available for user but let you see the full url used by domodroid.
 
-.. image:: image/Fr_server_option.png
-.. image:: image/Fr_server_option1.png
+.. image:: image/En_server_option2.png
+
+* Check all information used by domodroid to join your domogik in the end of this view.
+
+.. image:: image/En_server_option3.png
 
 MQ option
 =========
 
 * Mq adress, pub and sub port (for 0.4 or more domogik's version). (should be filled automatically after a sync).
+
+.. image:: image/En_mq_option.png
 
 Widget option
 =============
