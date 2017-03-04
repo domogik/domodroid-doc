@@ -98,7 +98,7 @@ Debug option
 * You have to select the directory name and file name where you want it to be save.
 	Get attention that by default it's in a hidden directory.
 * Dev, add the device Id after his name to help debugging.
+* A new view that allow you to see lgs directly from domodroid.
 
 .. image:: image/En_debug_option.png
-.. image:: image/En_debug_option1.png
 
