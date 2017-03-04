@@ -47,11 +47,11 @@ Widget option
 * Display timestamp by date or from now in widget.
 * Alternative graph use achartengine as graph engine.
 * Graph size height.
+* Number of value for history in widget that are not graph.
 * Forbid 2 columns in each mode Landscape or portrait will show widget on only one columns if your screen have more than 700px in height or width.
 * Force 0.3 by usage allow to un-force the by usage mode and restore by house view. Then you could organize your house as you want.
-* Navigation drawer not fully functional so could be activate or no, will be used to navigate in house organisation.
 
-.. image:: image/Fr_widget_option.png
+.. image:: image/En_widget_option.png
 
 Map option
 ==========
