@@ -9,8 +9,9 @@ In the menu you have choice of:
 * Talk with Buttler if sync wih a domogik 0.4 and more
 * :doc:`Organize you house <Config_house>`
 * :doc:`See statistics about echange with the server (Stats and Events) <stats>`
+* Open a Webview of the domodgik admin page directly inside domodroid
 * :doc:`Open about view <about>`
 * Exit
 
-.. image:: image/Fr_menu_open.png
+.. image:: image/home_menu.png
 
