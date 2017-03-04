@@ -20,6 +20,3 @@ http://domodroid.readthedocs.org/
 
 Translation can be done by you too here:
 https://www.transifex.com/projects/p/domodroid/
-
-Nightly builds are available here:
-http://repo.domogik.org/domodroid-nightly/
