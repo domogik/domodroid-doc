@@ -1,1 +1,43 @@
-OD
+Το Domodroid είναι μια εφαρμογή απομακρυσμένου ελέγχου που σας επιτρέπει να ελέγχετε το σύστημα οικιακού αυτοματισμού σας Domigik.
+
+
+
+Οι ακόλουθες δυνατότητες είναι ήδη διαθέσιμες στη τελευταία έκδοση του  Domodroid:
+
+
+
+- Graph Data Values with homemade graph engine (by default)
+
+- Graph Data Values with Achartengine (in development)
+
+- Streaming βίντεο κάμερας
+
+- On/Off (2 versions available), Variator, Actuator, State and Data Widgets
+
+- Αυτόματη Ενημέρωση των widgets
+
+- Πλήρες πακέτο εικονιδίων υποστηρίζεται
+
+- Technologies supported: Onewire, PLCBus, IPX800, Mirror, Teleinfo, X10, WakeOnLan, Ping, Zibase, RFXCom, YahooWather (Theorycally, all that are supported by Domogik)
+
+- All screen size supported Smartphone/Tablet
+
+- Power management control
+
+- Startup directly in map mode.
+
+
+
+http:/domogik.org
+
+
+
+Οδηγίες Χρήσης εδώ:
+
+http://domodroid.readthedocs.org/
+
+
+
+Μεταφράσεις μπορούν να γίνουν κι από εσάς εδώ:
+
+https://www.transifex.com/projects/p/domodroid/
